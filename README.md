@@ -8,9 +8,22 @@
 
 > 3.理解基础运算符
 
+> 4.初探 IDEA
+
 ## 重要说明
 
 **大家有问题请先到对应 Lab 的 Github issue 下面查看是否已经有解决方案！**
+
+## IDEA 教程
+
+为什么需要 IDEA？
+
+- 一键编译、运行！
+- 代码自动提示、自动补全！
+- 不会出现 Lab-0 的乱码！（乱码问题的解决点[这里](https://github.com/java-b/Lab-0/issues/2)）
+
+IDEA 教程在[讨论区](https://github.com/java-b/Forum/blob/master/IDEA.md)
+
 
 ## 提交作业
 
